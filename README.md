@@ -10,9 +10,9 @@ I'm currently open to internship or remote job opportunities. Here is my [resume
 
 ## GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulquddussagor&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquddussagor&theme=dracula&hide_border=false" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquddussagor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulquddussagor&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquddussagor&theme=dracula&hide_border=false" height="150"/><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquddussagor&locale=en&hide_title=false&layout=compact&card_width=756&langs_count=8&theme=dracula&hide_border=false" height="150"/>
 </div>
 
 ## Top Contributed Repo:
