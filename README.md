@@ -7,7 +7,7 @@
 **A passionate Software Quality Assurance Engineer** <br>
 I'm currently open to internship or remote job opportunities. Here is my [resume](https://drive.google.com/file/d/18xseUg9lMj1bwTOYMreJtbb6bVdSQFFA/view).
 
-## Languages and Tools:
+## <img src="https://i.ibb.co/yF7wSTB/tools.gif" height="30"> Languages and Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
