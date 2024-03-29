@@ -38,11 +38,11 @@ I'm currently open to internship or remote job opportunities. Here is my [resume
   <a href="mailto:abdulquddussagor@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/></a>
   <a href="https://linkedin.com/in/abdulquddussagor" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/></a>
+  <img src="https://i.ibb.co/YbSG4gB/linkedin.webp" width="40" height="40"/></a>
   <a href="https://facebook.com/sagor047" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40"/></a>
   <a href="https://wa.me/+8801863185558" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/></a>
+  <img src="https://i.ibb.co/D8tbWKT/whatsapp.png" width="40" height="40"/></a>
   <a href="https://t.me/+8801906760481" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40"/></a>
 </div>
