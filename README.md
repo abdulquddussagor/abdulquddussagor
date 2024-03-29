@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/6Dz96yx/saluting.webp" width=5.5% height=5.5%/>
 </div>
 
-# <img src="https://i.ibb.co/ZKT9h7Z/sagor.gif" height="50"> Hi. I'm Md. Abdul Quddus Sagor
+## <img src="https://i.ibb.co/ZKT9h7Z/sagor.gif" height="30"> Hi. I'm Md. Abdul Quddus Sagor
 **A passionate Software Quality Assurance Engineer** <br>
 I'm currently open to internship or remote job opportunities. Here is my [resume](https://drive.google.com/file/d/18xseUg9lMj1bwTOYMreJtbb6bVdSQFFA/view).
 
