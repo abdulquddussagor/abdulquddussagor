@@ -8,12 +8,14 @@
 I'm currently open to internship or remote job opportunities. Here is my [resume](https://drive.google.com/file/d/18xseUg9lMj1bwTOYMreJtbb6bVdSQFFA/view).
 
 
-### My GitHub Stats:
+## My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulquddussagor&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquddussagor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulquddussagor&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="131"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulquddussagor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="131"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulquddussagor&theme=dracula&hide_border=false" height="131"/>
 </div>
 
+## Connect with me on:
 <div align="center">
   <a href="mailto:abdulquddussagor@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/></a>
@@ -27,8 +29,8 @@ I'm currently open to internship or remote job opportunities. Here is my [resume
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40"/></a>
 </div>
 
-###
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=abdulquddussagor&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=abdulquddussagor&icon=5&color=1)](https://visitcount.itsvg.in)
