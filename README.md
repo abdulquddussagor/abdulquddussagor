@@ -15,10 +15,19 @@ I'm currently open to internship or remote job opportunities. Here is my [resume
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25"/>
+  <a href="mailto:abdulquddussagor@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/></a>
+  <a href="https://linkedin.com/in/abdulquddussagor" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/></a>
+  <a href="https://facebook.com/sagor047" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40"/></a>
+  <a href="https://wa.me/+8801863185558" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40"/></a>
+  <a href="https://t.me/+8801906760481" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40"/></a>
 </div>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"/>
