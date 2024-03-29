@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/6Dz96yx/saluting.webp" width=5.5% height=5.5%/>
 </p>
 
-# <picture><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif" height="40"></picture> Hi. I'm Md. Abdul Quddus Sagor
+# <picture><img src="https://i.ibb.co/ZKT9h7Z/sagor.gif" height="40"></picture> Hi. I'm Md. Abdul Quddus Sagor
 
 - A passionate Software Quality Assurance Engineer
 - Competitive Programer
