@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&duration=5000&color=000000&center=true&vCenter=true&random=false&width=180&lines=Assalamu+Alaikum"/>
+  <img src="https://i.ibb.co/6Dz96yx/saluting.webp"width=5.5% height=5.5%/>
+</p>
 
-<!--
-**abdulquddussagor/abdulquddussagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <picture><img src = "img/about_me_small.gif" width = 25px></picture> **I'm Saogr**
 
-Here are some ideas to get you started:
+- A passionate software developer
+- Competitive Programer
+- Quick Lerner
+- _I’m currently open for an Intern or a remote job opportunity_ , this is [my CV](https://www.overleaf.com/read/jfjsjggqjwnf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
