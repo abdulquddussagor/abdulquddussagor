@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/6Dz96yx/saluting.webp"width=5.5% height=5.5%/>
 </p>
 
-# <picture><img src = "img/about_me_small.gif" width = 25px></picture> **I'm Saogr**
+# <picture><img src="https://media.tenor.com/pOBIIyZJ7XgAAAAi/doc-drdisrespect.gif"width=25px></picture> **Hi. I'm Md. Abdul Quddus Sagor**
 
 - A passionate software developer
 - Competitive Programer
