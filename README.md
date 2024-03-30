@@ -47,5 +47,5 @@
 <br>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdulquddussagor&label=Profile%20Views&color=6&icon=5&pretty=false"/>
+  <img src="https://komarev.com/ghpvc/?username=abdulquddussagor&label=Profile%20Views&style=flat"/>
 </div>
