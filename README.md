@@ -1,7 +1,6 @@
 ## <img src="https://i.ibb.co/ZKT9h7Z/sagor.gif" height="25"> Hi. I'm Md. Abdul Quddus Sagor
 **A passionate Software Quality Assurance Engineer** <br>
 
-- I'm interested in Test Case Management.
 - I'm currently exploring Test Case Scenario Development, Test Planning, Test Estimation Techniques.
 - I'm aiming to contribute effectively to a high-performing team dedicated to delivering top-quality software solutions.
 - Know about my experiences: [Resume](https://drive.google.com/file/d/18xseUg9lMj1bwTOYMreJtbb6bVdSQFFA/view)
